@@ -1,4 +1,4 @@
-# 🚗⚡ Electric Vehicle Data Analysis Dashboard  
+# 🚗⚡ Electric Vehicle Analysis Dashboard  
 
 ## 📌 Project Overview  
 This project focuses on analyzing electric vehicle (EV) adoption trends using a **Tableau dashboard**. The dataset contains records of EVs registered in the United States, and the analysis aims to uncover insights into market growth, vehicle types, manufacturer dominance, and regional distribution.  
@@ -52,7 +52,7 @@ The **interactive dashboard** presents key performance indicators (KPIs), charts
 3. Interact with the dashboard using **filters** to explore different insights.  
 
 ## 📸 Dashboard Preview  
-![Electric Vehicle Data Analysis Dashboard](Dashboard 1.png)  
+![image alt](https://github.com/srinibas-masanta/Electric-Vehicle-Analysis-Dashboard/blob/25694183579e553e7f8f4d856c45f2b9b3cff76f/Dashboard%201.png)  
 
 ## 📥 Dataset  
 The dataset used in this project is sourced from **official EV registration records**. You can access it on **Kaggle** using the link below:  
